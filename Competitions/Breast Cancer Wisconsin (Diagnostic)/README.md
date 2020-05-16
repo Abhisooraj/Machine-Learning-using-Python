@@ -1,6 +1,6 @@
 # Predict whether the cancer is benign or malignant
 
-<h2>competitions Details</h2>
+<h2>Competitions Details</h2>
 
 This Competitions is hosted by <b>Kaggle</b>. Dataset and Competitions details can be found here: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/ 
 
