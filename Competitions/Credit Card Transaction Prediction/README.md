@@ -1,4 +1,4 @@
-# Credit Card Transaction Prediction:
+# Credit Card Transaction Prediction💵:
 
 <h3>Competitions Details :</h3>
 This Competitions is hosted by Analytics Vidhya. Dataset and Competitions details can be found here:
