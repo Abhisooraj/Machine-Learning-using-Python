@@ -1,1 +1,1 @@
-# Kaggle Competitions and Hackathons
+# Kaggle Competitions and Hackathons 🏆
