@@ -8,7 +8,7 @@ future events.
 In this age of modern technology, there is one resource, which we have in abundance: a large amount of Structured and Unstructured data. In the second half of the twentieth century, machine learning evolved as a subfield of Artificial Intelligence (AI) that involved self-learning algorithms that derived knowledge from data in order to make predictions. Instead of requiring humans to manually derive rules and build models from analyzing large amounts of data, the Machine learning offers a more efficient alternative for capturing the knowledge in data to gradually improve the performance of predictive models and make data-driven decisions.
 
 <ul> 
-      <b>Three types of machine learning:</b> 
+   <b>Three types of machine learning:</b> 
       <li>  1. Supervised learning  </li>
       <li>  2. Unsupervised learning  </li>
       <li>  3. Reinforcement learning. </li>
@@ -23,7 +23,7 @@ In unsupervised learning, however, we are dealing with unlabeled data or data of
 <br/>
 Clustering is a great technique for structuring information and deriving meaningful relationships from data. For example, it allows marketers to discover customer groups based on their interests, in order to develop distinct marketing programs.
 
-<b>3. Reinforcement learning <b/>
+<b>3. Reinforcement learning </b>
 In Reinforcement learning, the goal is to develop a system (agent) that improves its performance based on interactions with the environment. Since the information about the current state of the environment typically also includes a so-called reward signal, we can think of reinforcement learning as a field related to supervised learning. 
 <br/>
 However, in reinforcement learning this feedback is not the correct ground truth label or value, but a measure of how well the action was measure by a reward function. Through its interaction with the environment, an agent can then use reinforcement learning to learn a series of actions that maximizes this reward via an exploratory trial-and-error approach or deliberative planning. A popular example of reinforcement learning is a chess engine. Here, the agent decides upon a series of moves depending on the state of the board (the environment), and the reward can be define as win or lose at the end of the game.
