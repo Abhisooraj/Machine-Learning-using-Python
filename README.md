@@ -8,7 +8,7 @@ future events.
 In this age of modern technology, there is one resource, which we have in abundance: a large amount of Structured and Unstructured data. In the second half of the twentieth century, machine learning evolved as a subfield of Artificial Intelligence (AI) that involved self-learning algorithms that derived knowledge from data in order to make predictions. Instead of requiring humans to manually derive rules and build models from analyzing large amounts of data, the Machine learning offers a more efficient alternative for capturing the knowledge in data to gradually improve the performance of predictive models and make data-driven decisions.
 
 <ul> 
-  <b>Three types of machine learning:</b> 
+      <b>Three types of machine learning:</b> 
       <li>  1. Supervised learning  </li>
       <li>  2. Unsupervised learning  </li>
       <li>  3. Reinforcement learning. </li>
