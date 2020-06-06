@@ -26,3 +26,15 @@ applications in classification in many domains such as in credit approval, medic
         <li>  Imbalanced Classification </li>
    </ul> 
 </li>    
+
+<h2> Confusion Matrix </h2> 
+A Confusion Matrix also known as an error matrix. A confusion matrix is a table that is often used to describe the performance of a classification model (or “classifier”) on a set of test data for which the true values are known. 
+It allows the visualization of the performance of an algorithm.
+
+<h2> AUC (Area Under The Curve) ROC (Receiver Operating Characteristics) curve.</h2>
+The AUC - ROC curve is a performance measurement for classification problem at various thresholds settings. ROC is a probability curve and AUC represents degree or measure of separability. It tells how much model is capable of distinguishing between classes. 
+<br>
+<br>
+Higher the AUC, better the model is at predicting 0s as 0s and 1s as 1s. By analogy, Higher the AUC, better the model is at distinguishing between patients with disease and no disease.
+<br>
+The ROC curve is plotted with TPR against the FPR where TPR is on y-axis and FPR is on the x-axis
