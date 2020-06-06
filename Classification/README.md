@@ -7,27 +7,24 @@ from input variables (X) to discrete output variables (y).
 Classification belongs to the category of supervised learning where the targets also provided with the input data. There are many 
 applications in classification in many domains such as in credit approval, medical diagnosis, target marketing etc.
 
-<li><h5>Machine Learning Classification algorithms</h5>
-    <ul>
-        <li> Logistic Regression (LR)</li>
-        <li> Support Vector Machine (SVM) </li>
-        <li> Decision tree classiifer </li>
-        <li> Naive Bayes (NB) </li>
-        <li> K Nearest Neighbors (KNN) </li>
-        <li> AdaBoost </li>
-        <li> Random forest </li>
-        <li> XGBoost </li>
-    </ul>
-</li>
-
-<li><h5>Types of Classicification algorithms:</h5>
-    <ul>
-        <li>  Binary Classification </li>
-        <li>  Multi-Class Classification </li>
-        <li>  Multi-Label Classification </li>
-        <li>  Imbalanced Classification </li>
-   </ul> 
-</li>    
+<h5>Machine Learning Classification algorithms</h5>
+<ul>
+    <li> Logistic Regression (LR)</li>
+    <li> Support Vector Machine (SVM) </li>
+    <li> Decision tree classiifer </li>
+    <li> Naive Bayes (NB) </li>
+    <li> K Nearest Neighbors (KNN) </li>
+    <li> AdaBoost </li>
+    <li> Random forest </li>
+    <li> XGBoost </li>
+</ul>
+<h5>Types of Classicification algorithms:</h5>
+<ul>
+    <li>  Binary Classification </li>
+    <li>  Multi-Class Classification </li>
+    <li>  Multi-Label Classification </li>
+    <li>  Imbalanced Classification </li>
+</ul>     
 
 <h2> Confusion Matrix </h2> 
 A Confusion Matrix also known as an error matrix. A confusion matrix is a table that is often used to describe the performance of a classification model (or “classifier”) on a set of test data for which the true values are known. 
