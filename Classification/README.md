@@ -7,16 +7,18 @@ from input variables (X) to discrete output variables (y).
 Classification belongs to the category of supervised learning where the targets also provided with the input data. There are many 
 applications in classification in many domains such as in credit approval, medical diagnosis, target marketing etc.
 
-<ul><h5>Machine Learning Classification algorithms</h5>
-    <li> Naive Bayes (NB)   </li>
-    <li> K Nearest Neighbors (KNN) </li>
-    <li> AdaBoost </li>
-    <li> Random forest </li>
-    <li> XGBoost </li>
-    <li> Support Vector Machine (SVM) </li>
-    <li> Decision tree classiifer </li>
-    <li> Logistic Regression (LR)</li>
-</ul>
+<li><h5>Machine Learning Classification algorithms</h5>
+    <ul>
+        <li> Logistic Regression (LR)</li>
+        <li> Support Vector Machine (SVM) </li>
+        <li> Decision tree classiifer </li>
+        <li> Naive Bayes (NB) </li>
+        <li> K Nearest Neighbors (KNN) </li>
+        <li> AdaBoost </li>
+        <li> Random forest </li>
+        <li> XGBoost </li>
+    </ul>
+</li>
 
 <li><h5>Types of Classicification algorithms:</h5>
     <ul>
