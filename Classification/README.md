@@ -1,4 +1,4 @@
-# Classification: 
+# Classification🏫: 
 
 A classification model attempts to draw some conclusion from observed values. Given one or more inputs, a classification model will try to
 predict the value of one or more outcomes. Classification is the process of predicting the class of given data points. Classes are 
@@ -8,7 +8,7 @@ Classification belongs to the category of supervised learning where the targets 
 applications in classification in many domains such as in credit approval, medical diagnosis, target marketing etc.
 
 <ul><b>Machine Learning Classification algorithms</b>
-    <li> Naive Bayes (GNB)   </li>
+    <li> Naive Bayes (NB)   </li>
     <li> K Nearest Neighbors (KNN) </li>
     <li> AdaBoost </li>
     <li> Random forest </li>
@@ -18,7 +18,7 @@ applications in classification in many domains such as in credit approval, medic
     <li> Logistic Regression (LR)</li>
 </ul>
 
-<li>Types of Classicification algorithms:
+<li><b>Types of Classicification algorithms:</b>
     <ul>
         <li>  Binary Classification </li>
         <li>  Multi-Class Classification </li>
