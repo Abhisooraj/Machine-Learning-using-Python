@@ -18,9 +18,11 @@ applications in classification in many domains such as in credit approval, medic
     <li> Logistic Regression (LR)</li>
 </ul>
 
-<ul>Types of Classicification algorithms:
-    <li>  Binary Classification </li>
-    <li>  Multi-Class Classification </li>
-    <li>  Multi-Label Classification </li>
-    <li>  Imbalanced Classification </li>
-</ul>    
+<li>Types of Classicification algorithms:
+    <ul>
+        <li>  Binary Classification </li>
+        <li>  Multi-Class Classification </li>
+        <li>  Multi-Label Classification </li>
+        <li>  Imbalanced Classification </li>
+   </ul> 
+</li>    
